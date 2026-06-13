@@ -1,75 +1,60 @@
 # Data Analytics Portfolio
 
-This portfolio showcases projects that apply data analysis, statistical methods, and visualization techniques to solve real-world business and operational problems.
+This portfolio showcases selected projects applying data analysis, statistical methods, and visualization techniques to solve business problems.
+
+---
 
 ## Featured Projects
 
 ### Customer Segmentation & Purchase Behaviour Analysis
 
-**Objective:** Understand customer purchasing behavior and identify high-value customer segments.
+**Objective**  
+Understand customer purchasing behaviour and identify meaningful customer segments for targeted business strategies.
 
-**Techniques & Tools**
-- Python
-- Pandas
-- NumPy
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Customer Segmentation
-- RFM Analysis
+**Focus**
+- Customer segmentation using behavioural data  
+- Identification of high-value customer groups  
+- Analysis of spending patterns across segments  
 
-**Key Outcomes**
-- Identified major customer segments and spending patterns.
-- Profiled high-value customer groups.
-- Developed targeted business recommendations.
-
-**Repository:** [Customer Segmentation & Purchase Behaviour Analysis](link)
+**Links**
+- GitHub Repository: [link](https://github.com/DolapoOyetunbi/Retail_customer_profile)
+- Kaggle Notebook: [link](https://www.kaggle.com/code/dolapooyetunbi/customer-segmentation-purchase-behaviour-analysis)
+- Presentation Slides: [link](https://github.com/DolapoOyetunbi/Retail_customer_profile/blob/main/customer_profile_analysis.pdf)
 
 ---
 
 ### Sales Impact Analysis Using Matched Control Stores
 
-**Objective:** Evaluate the effectiveness of a store layout change using matched control stores.
+**Objective**  
+Evaluate the impact of a store layout change.
 
-**Techniques & Tools**
-- Python
-- Pandas
-- Data Visualization
-- Experimental Design
-- Matched-Control Methodology
-- Statistical Analysis
+**Focus**
+- A/B-style evaluation of layout intervention  
+- Matched control store selection using similarity measures  
+- Measurement of sales and customer impact  
 
-**Key Outcomes**
-- Quantified sales and traffic uplift.
-- Assessed statistical significance of observed changes.
-- Provided evidence-based recommendations for rollout decisions.
-
-**Repository:** [Sales Impact Analysis Using Matched Control Stores](link)
+**Links**
+- GitHub Repository: [link](https://github.com/DolapoOyetunbi/sales-layout-impact-control-store-analysis)
+- Kaggle Notebook: [link](https://www.kaggle.com/code/dolapooyetunbi/sales-impact-analysis-using-matched-control-stores/edit/run/319430258)
+- Presentation Slides: [link](https://github.com/DolapoOyetunbi/sales-layout-impact-control-store-analysis/blob/main/Store-Control-Analysis.pdf)
 
 ---
 
-## Skills Demonstrated
+## Skills Overview
 
 ### Data Analysis
 - Python
 - Pandas
 - NumPy
-- Data Cleaning
-- Exploratory Data Analysis
+- Customer analytics
 
-### Statistical Methods
-- Hypothesis Testing
-- Experimental Design
-- Uplift Measurement
-- Control Group Matching
+### Statistical & Analytical Methods
+- Hypothesis testing
+- Matched control analysis
+- Experimental evaluation
 
-### Data Visualization & Reporting
+### Visualization & Communication
 - Matplotlib
-- Business Reporting
-- Executive Presentations
-- PowerPoint Storytelling
-
----
-
-## About
-
-These projects demonstrate the ability to translate business questions into actionable insights through data analysis, statistical reasoning, and stakeholder-focused communication.
+- Seaborn
+- Business reporting
+- Executive presentation design
